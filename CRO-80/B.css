@@ -1,0 +1,41 @@
+button.icon-addon.icon-link.icon-link--1st.header__login-link.ng-star-inserted {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 0.625rem !important;
+    padding-left: 0px !important;
+}
+
+button.icon-addon.icon-link.icon-link--1st.header__login-link.ng-star-inserted mat-icon {
+    height: 24px !important;
+    width: 24px !important;
+}
+
+button.icon-addon.icon-link.icon-link--1st.header__login-link.ng-star-inserted .icon-link__label {
+    display: block;
+}
+
+.common-header .header__storefinder-link {
+    display: block !important;
+}
+
+.metanav .storefinder-link.icon-addon.icon-link.icon-link--1st {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px;
+}
+
+
+.metanav mat-icon.storefinder-link__icon  {
+    height: 24px !important;
+    width: 24px !important;
+}
+.metanav .icon-addon__label.icon-link__label.storefinder-link__label.ng-star-inserted {
+    font-size: 0 !important;
+}
+
+.metanav #storefinder-link::after {
+    content: "Butiker";
+    font-size: 14px !important;
+}

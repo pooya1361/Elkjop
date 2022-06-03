@@ -1,0 +1,8 @@
+.subscription__price-value::before {
+    content: "Pay now 1:-";
+    display: block;
+}
+
+.subscription__price-value span {
+    font-size: 1rem;
+}

@@ -1,0 +1,11 @@
+.subscription__title.ng-star-inserted strong.ng-star-inserted{
+    display:  none;
+}
+
+label.feature__title.ng-star-inserted strong{
+    display:  none;
+}
+
+.feature__price.ng-star-inserted {
+    display: none;
+}

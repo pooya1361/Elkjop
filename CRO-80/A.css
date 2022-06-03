@@ -1,0 +1,7 @@
+.common-header .header__storefinder-link {
+    display: block !important;
+}
+
+.metanav .icon-addon__label.icon-link__label.storefinder-link__label.ng-star-inserted{
+    display: none !important;
+}
